@@ -9,6 +9,7 @@ WARNING:  Unable to resolve breakpoint to any actual locations.`
 
 Con el flag -g, sí me deja poner breakpoints en líneas. El mejor flag de optimización es -O0 (pedirle que no optimice).
 
+A continuación describo lo que hice para cada código. Los códigos corregidos están en la carpeta bugs. 
 
 ## Add_array_static
 
